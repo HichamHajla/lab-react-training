@@ -1,0 +1,14 @@
+.user{
+    height: 150px;
+    display: flex;
+    flex-direction: row;
+    line-height: 5px;
+    border: 2px solid;
+
+}
+
+.pic{
+    padding: 10px;
+    
+}
+   
